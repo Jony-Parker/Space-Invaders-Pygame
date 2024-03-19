@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "practic32"
+version = "2"
+description = "1"
+authors = ["Jony Parker <paw.ipatov2017@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pygame = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
